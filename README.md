@@ -8,6 +8,7 @@ I'm a **DevOps Engineer** working at a telecommunications company (write me a pm
 
 - **Python Programming**: Experienced in developing robust automation scripts and tools.
 - **Test Automation**: Skilled in BDD frameworks like **Gherkin** and **Behave** to deliver high-quality, maintainable tests.
+- **Server Automation**: Skilled in Ansible for server maintenance tasks
 
 ## 🚀 Current Project
 
