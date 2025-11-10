@@ -1,6 +1,6 @@
 ![Kory291's GitHub Avatar](https://github.com/Kory291.png)
 
-# 👋 Hi, I'm Kory291 / Lukas!
+# 👋 Hi, I'm Kory291 / Ada!
 
 I'm a **DevOps Engineer** working at a telecommunications company (write me a pm if interested), passionate about automation, scripting, and building reliable systems.
 
