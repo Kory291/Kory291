@@ -20,7 +20,10 @@ I'm a **DevOps Engineer** working at a telecommunications company (write me a pm
 
 - 🏓 I play table tennis at a club — always up for a friendly match!
 - **Home labbing** — experimenting with servers, networks, and automation at home.
-- **Model railways** — combining tech and creativity to build miniature worlds.
+
+## Note:
+
+- also check my stuff out on [codeberg](https://codeberg.org/kory291)
 
 ---
 
